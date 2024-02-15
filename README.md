@@ -1,1 +1,1 @@
-This repo houses the files for [my personal website][https://ozgursinci.github.io].
+This repo houses the files for my personal [https://ozgursinci.github.io][website].
