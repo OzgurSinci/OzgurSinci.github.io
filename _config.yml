@@ -18,13 +18,13 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author
 author:
   name             : "Ozgur Sinci"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "Middle East Technical University Bachelor's degree, Statistics"
   pronouns         : # example: "she/her"
   location         : "Çankaya, Ankara, Turkey"
   # orcid            : 
   employer         :
-  email            :  ozgursinci2000@gmail.com
+  email            :  "ozgursinci2000@gmail.com"
   uri              :
 
   # Manuscript repositories
