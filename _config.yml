@@ -18,7 +18,7 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author
 author:
   name             : "Ozgur Sinci"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Middle East Technical University Bachelor's degree, Statistics"
   pronouns         : # example: "she/her"
   location         : "Çankaya, Ankara, Turkey"
