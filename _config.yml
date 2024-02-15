@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Ozgur Sinci"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ozgur Sinci"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ozgursinci.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ozgursinci/ozgursinci.github.io"
 
 # Site Author
 author:
