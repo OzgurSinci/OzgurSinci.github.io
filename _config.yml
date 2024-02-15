@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ozgur Sinci"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -17,14 +17,14 @@ repository               : "academicpages/academicpages.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ozgur Sinci"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Middle East Technical University Bachelor's degree, Statistics"
   pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
+  location         : "Çankaya, Ankara, Turkey"
+  # orcid            : 
   employer         :
-  email            :  
+  email            :  ozgursinci2000@gmail.com
   uri              :
 
   # Manuscript repositories
@@ -41,22 +41,22 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "ozgursinci"
   goodreads        :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/%C3%B6zg%C3%BCr-sinci-a38289192/"
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  # mastodon         : "mastodonhandle"
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   wikipedia        :
